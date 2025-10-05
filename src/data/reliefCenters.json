@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Central Distribution Hub",
+    "location": "100 Commerce Street",
+    "resources": {
+      "water": { "available": true, "quantity": "High" },
+      "food": { "available": true, "quantity": "Medium" },
+      "medicalSupplies": { "available": true, "quantity": "High" },
+      "clothing": { "available": true, "quantity": "Low" },
+      "blankets": { "available": false, "quantity": "Out of Stock" }
+    },
+    "openHours": "24/7",
+    "lastUpdated": "2025-10-05T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "West Side Relief Center",
+    "location": "250 Harbor Drive",
+    "resources": {
+      "water": { "available": true, "quantity": "High" },
+      "food": { "available": true, "quantity": "High" },
+      "medicalSupplies": { "available": true, "quantity": "Medium" },
+      "clothing": { "available": true, "quantity": "High" },
+      "blankets": { "available": true, "quantity": "Medium" }
+    },
+    "openHours": "6:00 AM - 10:00 PM",
+    "lastUpdated": "2025-10-05T09:30:00Z"
+  },
+  {
+    "id": 3,
+    "name": "North Valley Distribution Point",
+    "location": "789 Valley Road",
+    "resources": {
+      "water": { "available": true, "quantity": "Medium" },
+      "food": { "available": true, "quantity": "Low" },
+      "medicalSupplies": { "available": false, "quantity": "Out of Stock" },
+      "clothing": { "available": true, "quantity": "Medium" },
+      "blankets": { "available": true, "quantity": "High" }
+    },
+    "openHours": "8:00 AM - 8:00 PM",
+    "lastUpdated": "2025-10-05T08:15:00Z"
+  },
+  {
+    "id": 4,
+    "name": "East End Supply Station",
+    "location": "432 Industrial Parkway",
+    "resources": {
+      "water": { "available": true, "quantity": "High" },
+      "food": { "available": true, "quantity": "High" },
+      "medicalSupplies": { "available": true, "quantity": "Low" },
+      "clothing": { "available": true, "quantity": "Medium" },
+      "blankets": { "available": true, "quantity": "Medium" }
+    },
+    "openHours": "24/7",
+    "lastUpdated": "2025-10-05T11:00:00Z"
+  },
+  {
+    "id": 5,
+    "name": "South District Aid Center",
+    "location": "678 Meadow Lane",
+    "resources": {
+      "water": { "available": true, "quantity": "Medium" },
+      "food": { "available": true, "quantity": "Medium" },
+      "medicalSupplies": { "available": true, "quantity": "High" },
+      "clothing": { "available": false, "quantity": "Out of Stock" },
+      "blankets": { "available": true, "quantity": "Low" }
+    },
+    "openHours": "7:00 AM - 9:00 PM",
+    "lastUpdated": "2025-10-05T10:45:00Z"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Community Center Shelter",
+    "location": "123 Main Street, Downtown",
+    "capacity": 200,
+    "currentOccupancy": 145,
+    "coordinates": { "lat": 40.7128, "lng": -74.0060 },
+    "amenities": ["Medical Aid", "Food", "Water", "Sanitation"],
+    "contactNumber": "555-0101"
+  },
+  {
+    "id": 2,
+    "name": "St. Mary's Church Shelter",
+    "location": "456 Oak Avenue, Westside",
+    "capacity": 150,
+    "currentOccupancy": 89,
+    "coordinates": { "lat": 40.7308, "lng": -74.0120 },
+    "amenities": ["Food", "Water", "Blankets", "Clothing"],
+    "contactNumber": "555-0102"
+  },
+  {
+    "id": 3,
+    "name": "Lincoln High School Shelter",
+    "location": "789 Elm Street, Eastside",
+    "capacity": 300,
+    "currentOccupancy": 267,
+    "coordinates": { "lat": 40.7020, "lng": -73.9950 },
+    "amenities": ["Medical Aid", "Food", "Water", "Showers", "Pet Area"],
+    "contactNumber": "555-0103"
+  },
+  {
+    "id": 4,
+    "name": "Recreation Center Safe Zone",
+    "location": "321 Pine Road, Northside",
+    "capacity": 180,
+    "currentOccupancy": 52,
+    "coordinates": { "lat": 40.7450, "lng": -74.0200 },
+    "amenities": ["Food", "Water", "Children's Area", "Phone Charging"],
+    "contactNumber": "555-0104"
+  },
+  {
+    "id": 5,
+    "name": "Memorial Park Emergency Shelter",
+    "location": "555 Park Lane, Southside",
+    "capacity": 250,
+    "currentOccupancy": 198,
+    "coordinates": { "lat": 40.6900, "lng": -74.0100 },
+    "amenities": ["Medical Aid", "Food", "Water", "Sanitation", "Security"],
+    "contactNumber": "555-0105"
+  }
+]
