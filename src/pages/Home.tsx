@@ -57,8 +57,8 @@ function Home() {
           <p style={{ fontSize: '20px', opacity: 0.95 }}>
             Community Disaster Recovery System
           </p>
-          <p style={{ fontSize: '16px', marginTop: '8px', opacity: 0.85 }}>
-            Coordinating relief, recovery, and resilience — together.
+          <p style={{ fontSize: '20px', opacity: 0.95 }}>
+           Kasinathan T  <br></br>22UIT046 
           </p>
         </header>
 
